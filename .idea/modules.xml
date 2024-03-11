@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Entrada de Dados - Java.iml" filepath="$PROJECT_DIR$/.idea/Entrada de Dados - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/OperacoesMatematicas/OperacoesMatematicas.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/OperacoesMatematicas/OperacoesMatematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/Retangulo/Retangulo.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/Retangulo/Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/aoQuadrado/aoQuadrado.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/aoQuadrado/aoQuadrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/diasVividos/diasVividos.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/diasVividos/diasVividos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/dobroTriplo/dobroTriplo.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/dobroTriplo/dobroTriplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/mediaAritimetica/mediaAritimetica.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/mediaAritimetica/mediaAritimetica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/prestacaoAtraso/prestacaoAtraso.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/prestacaoAtraso/prestacaoAtraso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/reajusteSalario/reajusteSalario.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/reajusteSalario/reajusteSalario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/salarioMinimo/salarioMinimo.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/salarioMinimo/salarioMinimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/salarioVendedor/salarioVendedor.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/salarioVendedor/salarioVendedor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/totalPagar/totalPagar.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/totalPagar/totalPagar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrada de Dados - Java/valorGasolina/valorGasolina.iml" filepath="$PROJECT_DIR$/Entrada de Dados - Java/valorGasolina/valorGasolina.iml" />
+    </modules>
+  </component>
+</project>
